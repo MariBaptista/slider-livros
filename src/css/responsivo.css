@@ -1,0 +1,36 @@
+@media (max-width: 620px) {
+    .slider {
+        padding: 0 15px;
+        gap: 10px;
+    }
+
+    .b-seta {
+        width: 20px;
+        height: 20px;
+        padding: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .list {
+        height: 480px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .container-imagem {
+        max-height: 480px;
+    }
+
+    .cards .informacoes .nome {
+        max-width: 50%;
+        font-size: 15px;
+    }
+
+    .cards .informacoes .pags {
+        font-size: 15px;
+    }
+
+}
